@@ -33,12 +33,20 @@ This Boilerplate guide is based on experience.
 - [Project Configuration](docs/project-configuration.md)
 - [Project Structure](docs/project-structure.md)
 
+## Quick start
+
+Make sure that you have Node.js v8.15.1 and npm v5 or above installed.
+Clone this repo using git clone --depth=1 https://github.com/JolluSK/React-Production-Ready-Boilerplate <YOUR_PROJECT_NAME>
+Move to the appropriate directory: cd <YOUR_PROJECT_NAME>.
+Run npm run setup in order to install dependencies and clean the git repo.
+At this point you can run npm start to see the example app at http://localhost:3000.
+
 ## Contributing
 
 Contributions are always welcome! If you have any ideas, suggestions, fixes, feel free to contribute. You can do that by going through the following steps:
 
 1. Clone this repo
-2. Create a branch: `git checkout -b your-feature`
+2. Create a branch: `git checkout -b your-code`
 3. Make some changes
 4. Test your changes
 5. Push your branch and open a Pull Request
